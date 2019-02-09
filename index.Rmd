@@ -22,6 +22,6 @@ kable(by_zip, col.names = c("Zip Code", "Number of Evictions"))
 ## Time Series Analysis
 We observed important spikes in eviction notices over time.
 ```{r}
-plot_by_month
+
 ```
 
